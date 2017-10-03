@@ -1,0 +1,7 @@
+# Mac OS auto generated files
+*~
+*.swp
+.DS_Store
+
+# Npm generated files
+node_modules/*
